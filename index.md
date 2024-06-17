@@ -10,6 +10,7 @@ Education:
 I did my Bachelor's in Bioinformatics from Maulana Azad National Institute of Technology, Bhopal, India. I did my MS in Bioinformatics from Georgia Institute of Technology, Atlanta, USA. 
 
 Work and Research Experience:
-I gained experience in microboiomics and bacterial genomics at George Washington University (GWU), Washington DC.
-I acquired skills in human genetics at Columbia University Medical Center, New York, USA. I conducted research in Alzheimer's Disease (AD) 
+I gained experience in microboiomics and bacterial genomics at George Washington University (GWU), Washington DC. I developed pipeline for genome assemnbly, MLST. In Microbiomics I was responsible 
+I acquired skills in human genetics at Columbia University Medical Center, New York, USA. I conducted research in Alzheimer's Disease (AD) in Caribbean Hispanics (CH), perfomed population/genome-wide analysis (GWAS).
+
 
