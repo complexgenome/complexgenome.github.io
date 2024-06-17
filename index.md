@@ -17,7 +17,7 @@ I acquired skills in human genetics at Columbia University Medical Center, New Y
 
 I enjoy doing genetics research at personalized as well as population wide level. I enjoy drawing insights from genetics data employing bioinformatics, statistical and visualization tools.   
 
-**Interests**:
+**Interests**:   
 In my free time I enjoy playing with my dog, cooking, working out (weights and swimming), doing yoga. If time permits I read books of varied genres. 
 
 
