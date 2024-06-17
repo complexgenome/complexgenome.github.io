@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: Home
 ---
 
 Thank you for dropping by my webpage.
