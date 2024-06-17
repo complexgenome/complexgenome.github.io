@@ -4,9 +4,9 @@ title: Research
 ---
 
 
-Papers:
+**Papers**:
 
-Conferences:
+**Conferences**:
 1. AAIC 2021 Denver (virtual)  
 Polygenic risk score for Alzheimer’s Disease in Caribbean Hispanics  
 2. AAIC 2020 Amsterdam (virtual)  
