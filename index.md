@@ -6,7 +6,7 @@ Thank you for dropping by my webpage.
 
 I'm Sanjeev Sariya, currently employed at Mount Sinai, New York, USA; I do research in Multiple Myeloma where I'm involved in developing personalized precision medicine.
 
-Education:
+Education:  
 I did my Bachelor's in Bioinformatics from Maulana Azad National Institute of Technology, Bhopal, India. Eventually, I acquired my MS in Bioinformatics from Georgia Institute of Technology, Atlanta, USA. 
 
 Work and Research Experience:  
