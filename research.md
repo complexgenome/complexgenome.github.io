@@ -18,7 +18,7 @@ title: Research
 10. Tohid Siddiqui, ..., **Sanjeev Sariya**, ..., Giuseppe Tosto, Caghan Kizil “KYNA/Ahr Signaling Suppresses Neural Stem Cell Plasticity and Neurogenesis in Adult Zebrafish Model of Alzheimer’s Disease” Cells MDPI PMID: 34685728; Year 2021 <a href="/researchpdfs/2021_kyna.pdf">PDF</a> 
 11. **Sanjeev Sariya**, Daniel Felsky..., Giuseppe Tosto. “Polygenic risk score for Alzheimer’s Disease in Caribbean Hispanics” Annals of Neurology PMID: 34038570; Year 2021 <a href="/researchpdfs/PRS.pdf">PDF</a>
 12. **Sanjeev Sariya**, Joseph Lee, Richard Mayeux, ..., Giuseppe Tosto. “Rare variants imputation in admixed populations: comparison across reference panels and bioinformatics tools” Frontier’s in genetics PMID: 31001313; Year 2019 <a href="/researchpdfs/rare.pdf">PDF</a> 
-13. Giuseppe Tosto, Badri Vardarajan, **Sanjeev Sariya**, ..., Richard Mayeux. “Association of Variants in PINX1 and TREM2 With Late-Onset Alzheimer Disease” JAMA Neurology PMID: 31058951; Year 2019 <a href="/researchpdfs/2019_pinx1.pdf">PDF</a>  
+13. Giuseppe Tosto, Badri Vardarajan, **Sanjeev Sariya**, ..., Richard Mayeux. “Association of Variants in *PINX1* and *TREM2* With Late-Onset Alzheimer Disease” JAMA Neurology PMID: 31058951; Year 2019 <a href="/researchpdfs/2019_pinx1.pdf">PDF</a>  
 14. Cindy M. Liu, Marc Stegger, Maliha Aziz, ..., **Sanjeev Sariya**, Paul Keim, ..., Lance B. Price. “*Escherichia coli* ST131-H22 as a foodborne uropathogen” mBio PMID: 30154256; Year 2018 <a href="/researchpdfs/2018_ecoli.pdf">PDF</a>  
 15. Liu CM, ... , **Sariya S**, ..., Price LB. “Penile anaerobic dysbiosis as a risk factor for HIV infection” mBio PMID: 28743816; Year 2017 <a href="/researchpdfs/2017_penile_mbio.pdf">PDF</a>  
 
