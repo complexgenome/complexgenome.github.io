@@ -16,7 +16,7 @@ Dementia PMID: 36539198; year 2023
 7. Caghan Kizil, Sanjeev Sariya, ..., Giuseppe Tosto “Admixture Mapping of Alzheimer’s disease in Caribbean Hispanics identifies a new locus on 22q13.1” Molecular Psychiatry PMID: 35365809; year 2022
 8. Yizhe Gao, ..., Sanjeev Sariya, ..., Richard Mayeux, Sandra Barral “Integration of GWAS and brain transcriptomic analyses in a multi-ethnic sample of 35,349 older adults identifies DCDC2 gene as predictor of episodic memory maintenance” Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association PMID: 34873813; year 2022
 9. Tohid Siddiqui, ..., Sanjeev Sariya, ..., Giuseppe Tosto, Caghan Kizil “KYNA/Ahr Signaling Suppresses Neural Stem Cell Plasticity and Neurogenesis in Adult Zebrafish Model of Alzheimer’s Disease” Cells MDPI PMID: 34685728; Year 2021
-10. Sanjeev Sariya, Giuseppe Tosto. “GARCOM: A user-friendly R package for genetic mutation counts” F1000 Research peer review awaited
+10. Sanjeev Sariya, Giuseppe Tosto. “GARCOM: A user-friendly R package for genetic mutation counts” F1000 Research  
 11. Sanjeev Sariya, Daniel Felsky..., Giuseppe Tosto. “Polygenic risk score for Alzheimer’s Disease in Caribbean Hispanics” Annals of Neurology PMID: 34038570; year 2021
 12. Sanjeev Sariya, Joseph Lee, Richard Mayeux, ..., Giuseppe Tosto. “Rare variants imputation in admixed populations: comparison across reference panels and bioinformatics tools.” Frontier’s in genetics PMID: 31001313; Year 2019 <a href="researchpdfs/rare.pdf">PDF</a>
 13. Giuseppe Tosto, Badri Vardarajan, Sanjeev Sariya, ..., Richard Mayeux. “Association of Variants in PINX1 and TREM2 With Late-Onset Alzheimer Disease” JAMA Neurology PMID: 31058951; Year 2019
