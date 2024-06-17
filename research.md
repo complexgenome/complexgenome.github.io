@@ -14,13 +14,13 @@ title: Research
 6. Annie J Lee, ..., **Sanjeev Sariya**, ..., Richard Mayeux “FMNL2 regulates gliovascular interactions and is associated with vascular risk factors and cerebrovascular pathology in Alzheimer’s disease” Acta neuropathologica PMID: 35608697; Year 2022
 7. Caghan Kizil, **Sanjeev Sariya**, ..., Giuseppe Tosto “Admixture Mapping of Alzheimer’s disease in Caribbean Hispanics identifies a new locus on 22q13.1” Molecular Psychiatry PMID: 35365809; Year 2022 <a href="/researchpdfs/admixture.pdf">PDF</a>
 8. Yizhe Gao, ..., **Sanjeev Sariya**, ..., Richard Mayeux, Sandra Barral “Integration of GWAS and brain transcriptomic analyses in a multi-ethnic sample of 35,349 older adults identifies DCDC2 gene as predictor of episodic memory maintenance” Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association PMID: 34873813; year 2022
-9. Tohid Siddiqui, ..., Sanjeev Sariya, ..., Giuseppe Tosto, Caghan Kizil “KYNA/Ahr Signaling Suppresses Neural Stem Cell Plasticity and Neurogenesis in Adult Zebrafish Model of Alzheimer’s Disease” Cells MDPI PMID: 34685728; Year 2021
-10. **Sanjeev Sariya**, Giuseppe Tosto. “GARCOM: A user-friendly R package for genetic mutation counts” F1000 Research; Year 2024  
+9. Tohid Siddiqui, ..., **Sanjeev Sariya**, ..., Giuseppe Tosto, Caghan Kizil “KYNA/Ahr Signaling Suppresses Neural Stem Cell Plasticity and Neurogenesis in Adult Zebrafish Model of Alzheimer’s Disease” Cells MDPI PMID: 34685728; Year 2021
+10. **Sanjeev Sariya**, Giuseppe Tosto. “GARCOM: A user-friendly R package for genetic mutation counts” F1000 Research; Year 2024 <a href="/researchpdfs/garcom.pdf">PDF</a> 
 11. **Sanjeev Sariya**, Daniel Felsky..., Giuseppe Tosto. “Polygenic risk score for Alzheimer’s Disease in Caribbean Hispanics” Annals of Neurology PMID: 34038570; Year 2021 <a href="/researchpdfs/PRS.pdf">PDF</a>
-12. **Sanjeev Sariya, Joseph Lee, Richard Mayeux, ..., Giuseppe Tosto. “Rare variants imputation in admixed populations: comparison across reference panels and bioinformatics tools.” Frontier’s in genetics PMID: 31001313; Year 2019 <a href="/researchpdfs/rare.pdf">PDF</a>
+12. **Sanjeev Sariya**, Joseph Lee, Richard Mayeux, ..., Giuseppe Tosto. “Rare variants imputation in admixed populations: comparison across reference panels and bioinformatics tools.” Frontier’s in genetics PMID: 31001313; Year 2019 <a href="/researchpdfs/rare.pdf">PDF</a> 
 13. Giuseppe Tosto, Badri Vardarajan, **Sanjeev Sariya**, ..., Richard Mayeux. “Association of Variants in PINX1 and TREM2 With Late-Onset Alzheimer Disease” JAMA Neurology PMID: 31058951; Year 2019
-14. Cindy M. Liu, Marc Stegger, Maliha Aziz, ..., Sanjeev Sariya, Paul Keim, ..., Lance B. Price. “Escherichia coli ST131-H22 as a foodborne uropathogen.” mBio PMID: 30154256; Year 2018
-15. Liu CM, . . . , Sariya S, ..., Price LB. “Penile anaerobic dysbiosis as a risk factor for HIV infection.” mBio PMID: 28743816; Year 2017
+14. Cindy M. Liu, Marc Stegger, Maliha Aziz, ..., **Sanjeev Sariya**, Paul Keim, ..., Lance B. Price. “Escherichia coli ST131-H22 as a foodborne uropathogen.” mBio PMID: 30154256; Year 2018
+15. Liu CM, . . . , **Sariya S**, ..., Price LB. “Penile anaerobic dysbiosis as a risk factor for HIV infection.” mBio PMID: 28743816; Year 2017
 
 **Conferences**:
 1. AAIC 2021 Denver (virtual)  
