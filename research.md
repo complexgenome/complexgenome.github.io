@@ -6,7 +6,7 @@ title: Research
 
 **Papers**:
 
-1. “Pediatric urinary tract infections caused by poultry-associated Escherichia coli” Microbiology Spectrum PMID 38864635; Year 2024
+1. “Pediatric urinary tract infections caused by poultry-associated *Escherichia coli*” Microbiology Spectrum PMID 38864635; Year 2024
 2. **Sanjeev Sariya**, Giuseppe Tosto. “GARCOM: A user-friendly R package for genetic mutation counts” F1000 Research; Year 2024 <a href="/researchpdfs/garcom.pdf">PDF</a> <a href="https://cran.r-project.org/web/packages/GARCOM/index.html">CRAN</a>
 3. Minghua Liu, ..., **Sanjeev Sariya**, ..., Jose Gutierrez “Chromosome 10q24.32 Variants Associate with Brain Arterial Diameters in Diverse Populations: A Genome-Wide Association Study” J Am Heart Assoc PMID: 36778463; Year 2023 <a href="/researchpdfs/2023_10q24_JAH.pdf">PDF</a> 
 4. Cindy M Liu, ..., **Sanjeev Sariya**, ..., Lance B Price “Using source-associated mobile genetic elements to identify zoonotic extraintestinal *E. coli* infections” One Health PMID: 37363239; Year 2023 <a href="/researchpdfs/2023_zoonotic.pdf">PDF</a>
