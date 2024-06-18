@@ -4,8 +4,8 @@ layout: page
 
 Thank you for dropping by my webpage.
 
-I'm Sanjeev Sariya, a statistical geneticist with over a decade of work experience in industry and academia. I enjoy doing genetics research at personalized as well as population wide level. I enjoy drawing insights from genetics data employing bioinformatics, statistical and visualization tools.  
-I'm currently employed at Mount Sinai, New York, USA; my research is focused on Multiple Myeloma where I'm involved in developing precision medicine pipeline and reports.
+I'm Sanjeev Sariya, a statistical geneticist with over a decade of work experience in industry and academia. I like doing genetics research at personalized as well as population wide level. I enjoy drawing insights from genetics data employing bioinformatics, statistical and visualization tools.  
+I currently work at Mount Sinai, New York, USA; my research is focused on Multiple Myeloma where I'm involved in developing precision medicine pipeline and reports.
 
 **Education**:  
 I did my Bachelor's in Bioinformatics from Maulana Azad National Institute of Technology, Bhopal, India. Eventually, I acquired my MS in Bioinformatics from Georgia Institute of Technology, Atlanta, USA. 
