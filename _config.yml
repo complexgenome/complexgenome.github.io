@@ -21,7 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/complexgenome"}
-  - {title: LinkedIn, icon: linkedin, username:"", url: https://www.linkedin.com/in/sariyasanjeev/, desc: Connect with me on LinkedIn, share: false}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/sariyasanjeev/"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=n6iwY6kAAAAJ&hl=en"}
   
 
 comments:
