@@ -14,7 +14,7 @@ I did my Bachelor's in Bioinformatics from Maulana Azad National Institute of Te
 I've had opportunity to work and learn in different research domains: bacterial, phylogenetics, population level, cancer.    
 
 I gained experience in microboiomics and bacterial genomics at George Washington University (GWU), Washington DC. I developed pipeline for genome assembly, MLST for bacterial genomics. For microbiomics I was responsible for developing an in-house pipeline for Illumina 300bp reads for V3-V4 region. I curated database to classify taxanomy at species-level for human nasal and genital microbiome.  
-I acquired skills in human genetics at Columbia University Medical Center, New York, USA. I conducted research in Alzheimer's Disease (AD) in Caribbean Hispanics (CH), perfomed population/genome-wide analysis (GWAS). 
+I acquired skills in human genetics at Columbia University Medical Center, New York, USA. I conducted research in Alzheimer's Disease (AD) in the context of Caribbean Hispanics (CH) ethnicity, where perfomed population/genome-wide analysis (GWAS), developed PRS (polygenic risk score) and bioinformatics analyses pipeline . 
 
 **Interests**:   
 In my free time I enjoy walking with my dog, working out (weights and swimming), doing yoga. If time permits I read books of varied genres. 
